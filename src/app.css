@@ -1,0 +1,32 @@
+.main {
+    display: flex;
+background: red;
+    height: 100vh;
+}
+
+.left {
+    background: yellow;
+    width: 20%;
+
+}
+
+.center{
+    background: gray;
+    width:60%;
+
+}
+
+.right {
+    width: 20%;
+    background: antiquewhite;
+
+}
+
+.forcanvas {
+    background: white;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    height: 80%;
+    border: solid 1px;
+    position: relative;
+}
